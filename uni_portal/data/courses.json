@@ -1,0 +1,38 @@
+[
+    {
+        "course_code": "CS101",
+        "title": "Introduction to Programming",
+        "credit_hours": 3,
+        "instructor": "Dr. Ayesha"
+    },
+    {
+        "course_code": "DS201",
+        "title": "Data Structures",
+        "credit_hours": 4,
+        "instructor": "Sir Khalid"
+    },
+    {
+        "course_code": "ABC",
+        "title": "Data Science",
+        "credit_hours": 2,
+        "instructor": "Hanzala"
+    },
+    {
+        "course_code": "544",
+        "title": "Data Science",
+        "credit_hours": 2,
+        "instructor": "wania"
+    },
+    {
+        "course_code": "544",
+        "title": "Data Science",
+        "credit_hours": 2,
+        "instructor": "wania"
+    },
+    {
+        "course_code": "544",
+        "title": "Data Science",
+        "credit_hours": 2,
+        "instructor": "wania"
+    }
+]
